@@ -24,5 +24,5 @@ Before full stack development, I spent years in logistics, retail, and hive mana
 📫 Get in Touch
 
 
-LinkedIn: [add profile URL]
+LinkedIn: [https://www.linkedin.com/in/maria-gear-0ba7162a0/)]
 Email: mariagear2020@gmail.com
