@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**mg20765/mg20765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Maria 👋
 
-Here are some ideas to get you started:
+Full Stack Development trainee (Mission Ready, 2026) making the move into software development. Curious, reliable, and always learning — bringing years of problem-solving and hands-on experience from a varied career into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Languages & Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
+Databases & Tools: SQL, MongoDB, Docker, Git/GitHub, VS Code, Agile methodology
+
+🚀 Projects
+
+
+TradeMe Clone - Marketplace & Category View — Full-stack marketplace app built as a team (homepage, bid popup, listing/category pages, compare). Built the Category page and Watchlist feature, led the PoC and README, and refactored the backend into a clean MVC structure.
+Turners Cars - Tina Insurance Chatbot — AI-powered insurance assistant (Google Gemini) that recommends a policy and emails a summary. Introduced the chat popup UI and styling.
+Hive Harmony — Built for beekeepers, currently testing in the field. Watch this space 🐝
+
+
+🌱 About Me
+
+Before full stack development, I spent years in logistics, retail, and hive management (yes, beekeeping!) — including a Commercial Beekeeping qualification. I bring that same reliability and problem-solving instinct to every project, plus a genuine love of learning new things.
+
+📫 Get in Touch
+
+
+LinkedIn: [add profile URL]
+Email: mariagear2020@gmail.com
