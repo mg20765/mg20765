@@ -14,7 +14,9 @@ Databases & Tools: SQL, MongoDB, Docker, Git/GitHub, VS Code, Agile methodology
 
 - **[TradeMe Clone - Marketplace & Category View](https://github.com/mg20765/mission-5-phase-2-team-3)** —(Private repo — GitHub Classroom, available on request) Full-stack marketplace app built as a team (homepage, bid popup, listing/category pages, compare). Built the Category page and Watchlist feature, led the PoC and README, and refactored the backend into a clean MVC structure.
 - **[Turners Cars - Tina Insurance Chatbot](https://github.com/mg20765/Mission-4)** —built collaboratively as a team, with each member developing their own version of key features" AI-powered insurance assistant (Google Gemini) that recommends a policy and emails a summary. Introduced the chat popup UI and styling.
-Hive Harmony — Built for beekeepers, currently testing in the field. Watch this space 🐝
+
+-** Coming soon **
+-**Hive Harmony — Built for beekeepers, currently testing in the field. Watch this space 🐝
 
 
 🌱 About Me
