@@ -7,7 +7,8 @@ Full Stack Development trainee (Mission Ready, 2026) making the move into softwa
 🛠️ Tech Stack
 
 Languages & Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
-Databases & Tools: SQL, MongoDB, Docker, Git/GitHub, VS Code, Agile methodology
+
+Databases & Tools: SQL, MongoDB, IndexedDB, Docker, Git/GitHub, GitHub Actions CI, Playwright, Vitest, VS Code, Agile methodology
 
 🚀 Projects
 
