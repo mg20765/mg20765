@@ -27,5 +27,6 @@ Before full stack development, I spent years in logistics, retail, and hive mana
 📫 Get in Touch
 
 
-LinkedIn: [https://www.linkedin.com/in/maria-gear-0ba7162a0/)]
-Email: mariagear2020@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-gear-0ba7162a0)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mg20765)
