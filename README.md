@@ -15,8 +15,8 @@ Databases & Tools: SQL, MongoDB, Docker, Git/GitHub, VS Code, Agile methodology
 - **[TradeMe Showcase](https://github.com/mg20765/trademe-showcase.git)** Full-stack marketplace app built as a team (homepage, bid popup, listing/category pages, compare). Built the Category page and Watchlist feature, led the PoC and README, and refactored the backend into a clean MVC structure.
 - **[Turners Cars - Tina Insurance Chatbot](https://github.com/mg20765/Mission-4)** —built collaboratively as a team, with each member developing their own version of key features" AI-powered insurance assistant (Google Gemini) that recommends a policy and emails a summary. Introduced the chat popup UI and styling.
 
--** Coming soon **
--**Hive Harmony — Built for beekeepers, currently testing in the field. Watch this space 🐝
+- **[BeeYardLog](https://github.com/mg20765/beeyardlog)**: a free, offline hive inspection logbook, built because I kept running out of signal and wrestling with messy paper notes. Works with no signal and no account. React, IndexedDB and a service worker, with 179 unit and 99 end-to-end tests (Vitest, Playwright) and CI on GitHub Actions. [Try it](https://hive-logbook-maria.surge.sh)
+🐝
 
 
 🌱 About Me
