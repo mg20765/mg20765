@@ -25,7 +25,7 @@
 
 Before software development I spent years in logistics, retail and hive management (yes, beekeeping!), including a Commercial Beekeeping qualification. I bring that same reliability and problem-solving instinct to every project, plus a genuine love of learning new things.
 
-I'm looking for my first developer role. I love a challenge, so what have you got for me?
+I'm looking for my first developer role. I love a challenge, ready to roll up my sleeves, so what have you got for me?
 
 ## 📫 Get in Touch
 
