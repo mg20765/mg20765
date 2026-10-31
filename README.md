@@ -19,7 +19,8 @@
 - - **[TradeMe Showcase](https://github.com/mg20765/trademe-showcase)**: a full-stack marketplace app built as a team. I built the Category page and Watchlist feature, led the proof of concept and README, and refactored the backend into a clean MVC structure. Later I added 48 unit and component tests (Vitest, React Testing Library) for the Watchlist, Category, Compare and Bid screens, which found and fixed real bugs.Later I added 48 unit and component tests (Vitest, React Testing Library) for the Watchlist, Category, Compare and Bid screens, which found and fixed real bugs.
 
 
-- **[Turners Cars Insurance Chatbot](https://github.com/mg20765/Mission-4)**: built as a team, with each member developing their own version of the key features. An AI-powered insurance assistant (Google Gemini) that recommends a policy and emails a summary. I built the chat popup UI and styling and added the send to email.
+- **[Turners Cars Insurance Chatbot](https://github.com/mg20765/Mission-4)**: built as a team, with each member developing their own version of the key features. An AI-powered insurance assistant (Google Gemini) that recommends a policy and emails a summary. I built the chat popup UI and styling and added the send to email. I also wrote 22 Vitest tests (20 frontend and 2 backend) covering policy recommendations, email validation, conversation history and the summary endpoint.
+
 
 ## 🌱 About Me
 
