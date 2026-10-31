@@ -1,3 +1,6 @@
+![Maria Gear: nature and tech](banner.png)
+
+
 ## Hi, I'm Maria 👋
 
 **Junior Full Stack Developer** in New Zealand (Mission Ready graduate, 2026). I find what breaks before your users do, and I keep bees as a hobby. Curious, reliable, and always learning, I bring years of problem-solving and hands-on experience from a varied career into code.
@@ -13,6 +16,11 @@
 **Testing:** Playwright, Vitest, ESLint
 
 ## 🚀 Projects
+
+<a href="https://github.com/mg20765/beeyardlog"><img src="beeyardlog.png" alt="BeeYardLog: a free offline hive inspection logbook" width="32%"></a>
+<a href="https://github.com/mg20765/trademe-showcase"><img src="trademe.png" alt="TradeMe Showcase: a full-stack marketplace app" width="32%"></a>
+<a href="https://github.com/mg20765/Mission-4"><img src="turners-chatbot.png" alt="Turners Cars chatbot: an AI insurance assistant" width="32%"></a>
+
 
 - **[BeeYardLog](https://github.com/mg20765/beeyardlog)**: a free, offline hive inspection logbook, built because I kept running out of signal and wrestling with messy paper notes. Works with no signal and no account. React, IndexedDB and a service worker, with 179 unit and 99 end-to-end tests (Vitest, Playwright) and CI on GitHub Actions. [Try it](https://hive-logbook-maria.surge.sh)
 - **PolicyCheck (10-week client placement)**: shipped features and dark mode in a production React/TypeScript codebase for an AI-native insurance broker, fixed bugs found through live testing, built two CI checks that protect dark mode, and grew the client test suite by 140% (314 to 753 tests). Private company repo.
