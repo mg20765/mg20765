@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 <a href="https://github.com/mg20765/beeyardlog"><img src="beeyardlog.png" alt="BeeYardLog: a free offline hive inspection logbook" width="32%"></a>
-<a href="https://github.com/mg20765/trademe-showcase"><img src="TradeMe-social-preview.png" alt="TradeMe Showcase: a full-stack marketplace app" width="32%"></a>
+<a href="https://github.com/mg20765/trademe-showcase"><img src="trademe-real-photos.png" alt="TradeMe Showcase: a full-stack marketplace app" width="32%"></a>
 <a href="https://github.com/mg20765/Mission-4"><img src="TurnersChatbot-social-preview-screenshot.png" alt="Turners Cars chatbot: an AI insurance assistant" width="32%"></a>
 
 
