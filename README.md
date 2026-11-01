@@ -16,10 +16,10 @@
 **Testing:** Playwright, Vitest, ESLint
 
 ## 🚀 Projects
-
 <a href="https://github.com/mg20765/beeyardlog"><img src="beeyardlog.png" alt="BeeYardLog: a free offline hive inspection logbook" width="32%"></a>
-<a href="https://github.com/mg20765/trademe-showcase"><img src="trademe.png" alt="TradeMe Showcase: a full-stack marketplace app" width="32%"></a>
-<a href="https://github.com/mg20765/Mission-4"><img src="turners-chatbot.png" alt="Turners Cars chatbot: an AI insurance assistant" width="32%"></a>
+<a href="https://github.com/mg20765/trademe-showcase"><img src="TradeMe-social-preview.png" alt="TradeMe Showcase: a full-stack marketplace app" width="32%"></a>
+<a href="https://github.com/mg20765/Mission-4"><img src="TurnersChatbot-social-preview-screenshot.png" alt="Turners Cars chatbot: an AI insurance assistant" width="32%"></a>
+
 
 
 - **[BeeYardLog](https://github.com/mg20765/beeyardlog)**: a free, offline hive inspection logbook, built because I kept running out of signal and wrestling with messy paper notes. Works with no signal and no account. React, IndexedDB and a service worker, with 179 unit and 99 end-to-end tests (Vitest, Playwright) and CI on GitHub Actions. [Try it](https://hive-logbook-maria.surge.sh)
